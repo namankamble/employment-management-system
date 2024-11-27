@@ -1,4 +1,4 @@
-# Employment Management System - Data Science Internship at LearnBay
+# Data Science Internship at LearnBay
 
 Hello Everyone!  
 
