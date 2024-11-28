@@ -1,4 +1,4 @@
-# Data Science Internship at LearnBay
+# Data Science Internship Project
 
 Hello Everyone!  
 
